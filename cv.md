@@ -1,5 +1,5 @@
 # Full Stack Developer
-_Marina Kustova (marinakoustova@gmail.com)_
+_Marina Kustova (marinakoustova@gmail.com, Telegram: edgeandpearl)_
 
 ## Experience
 
