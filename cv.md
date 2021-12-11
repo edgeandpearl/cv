@@ -1,4 +1,4 @@
-# Full Stack Developer
+# Frontend Developer
 _Marina Kustova (marinakoustova@gmail.com, Telegram: edgeandpearl)_
 
 ## Experience
@@ -7,7 +7,7 @@ _Marina Kustova (marinakoustova@gmail.com, Telegram: edgeandpearl)_
 
 **Stack:** Vanilla JS, React, Redux, TypeScript, Styled components
 
-+ Implementing pixel-perfect layouts;
++ Implementing pixel-perfect cross-browser layouts;
 + supporting an advertising system and creating advertisement banners;
 + communicating with contractors.
 
