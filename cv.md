@@ -3,12 +3,29 @@ _Marina Kustova (marinakoustova@gmail.com, Telegram: edgeandpearl)_
 
 ## Experience
 
-### June 2019—present: Full&nbsp;stack developer @ MTS IT
+### August 2020–present: Frontend developer @ Avito
+
+**Stack:** Vanilla JS, React, Redux, TypeScript, Styled components
+
++ Implemented pixel-perfect layouts;
++ supported an advertising system and created advertisement banners;
++ communicated with contractors.
+
+### October 2019–August 2020: Frontend developer @ Rubbles
+
+**Stack:** React, Redux, TypeScript, Angular
+
++ Implemented designed layouts;
++ created an email constructor from scratch;
++ supported and modified legacy code;
++ lead a team of three junior frontend developers.
+
+### June 2019—September 2019: Fullstack developer @ MTS IT
 
 **Stack:** Python, Flask, TypeScript, Angular, PostgreSQL, Docker, RabbitMQ.
 
-+ Implementing designed layouts;
-+ creating and supporting Docker microservices.
++ Implemented designed layouts;
++ created and supported Docker microservices.
 
 ### February 2018—June 2019: Frontend developer @ PROFI.RU
 
