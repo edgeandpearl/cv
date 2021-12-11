@@ -7,9 +7,9 @@ _Marina Kustova (marinakoustova@gmail.com, Telegram: edgeandpearl)_
 
 **Stack:** Vanilla JS, React, Redux, TypeScript, Styled components
 
-+ Implemented pixel-perfect layouts;
-+ supported an advertising system and created advertisement banners;
-+ communicated with contractors.
++ Implementing pixel-perfect layouts;
++ supporting an advertising system and creating advertisement banners;
++ communicating with contractors.
 
 ### October 2019–August 2020: Frontend developer @ Rubbles
 
